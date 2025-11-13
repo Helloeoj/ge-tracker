@@ -1,0 +1,2 @@
+2025-11-13 01:23:44,477 WARNING Failed to fetch description for Abyssal whip: 404, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://oldschool.runescape.wiki/w/Api.php?action=parse&format=json&page=Abyssal_whip&prop=text&section=0'
+2025-11-13 01:23:44,477 WARNING Failed to fetch description for Abyssal whip: 404, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url='https://oldschool.runescape.wiki/w/Api.php?action=parse&format=json&page=Abyssal_whip&prop=text&section=0'
